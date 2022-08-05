@@ -1,5 +1,5 @@
-getwd()
-setwd("C:/Users/sadish/OneDrive/Desktop/work")
+#getwd()
+#setwd("C:/Users/sadish/OneDrive/Desktop/work")
 Data<-read.csv("dummy.csv")
 
 library(shiny)
